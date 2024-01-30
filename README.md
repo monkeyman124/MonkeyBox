@@ -1,1 +1,1 @@
-# MonkeyBox
+MonkeyBox is a modified version of chrome box made by this guy: https://github.com/HENRYMARTIN5/ChromeBox. I decided to add some new features and plan to add more in the near future. All credit goes to the original creator.
